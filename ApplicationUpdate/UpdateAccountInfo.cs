@@ -9,8 +9,6 @@ namespace ApplicationUpdate
     class UpdateAccountInfo
     {
         adfa
-test
 
-PRUEBA FINAL
     }
 }
