@@ -8,6 +8,6 @@ namespace ApplicationUpdate
 {
     class UpdateAccountInfo
     {
-      Esto es una prueba de workflow
+     
     }
 }
