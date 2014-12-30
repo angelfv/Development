@@ -17,6 +17,6 @@ namespace ApplicationUpdate
 {
     class UpdateAccountInfo
     {
-     cmabio 
+
     }
 }
